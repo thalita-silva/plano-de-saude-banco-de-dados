@@ -142,7 +142,7 @@ INSERT INTO Pessoa(nome, sexo, tipo_plano_id, cidade_codigo, data_nasc)
 INSERT INTO Pessoa(nome, sexo, tipo_plano_id, cidade_codigo, data_nasc, telefone)
   VALUES ('Adriana Benjamim', 'F', 3, 6, '01/01/2010', '(67) 3522-2227');
 INSERT INTO Pessoa(nome, sexo, tipo_plano_id, cidade_codigo, data_nasc)
-  VALUES ('Matheus Camrgo', 'M', 2, 1, '01/01/2000');
+  VALUES ('Matheus Camargo', 'M', 2, 1, '01/01/2000');
 INSERT INTO Pessoa(nome, sexo, tipo_plano_id, cidade_codigo, data_nasc)
   VALUES ('Marcos Costa', 'M', 5, 1, '01/01/1980');
 INSERT INTO Pessoa(nome, sexo, tipo_plano_id, cidade_codigo, data_nasc)
